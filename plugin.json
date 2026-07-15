@@ -1,0 +1,5 @@
+{
+  "name": "instagram-reel-summariser",
+  "description": "Extract and summarise the content of an Instagram reel from its URL — transcript, on-screen text, gist, and key points.",
+  "version": "0.1.0"
+}
