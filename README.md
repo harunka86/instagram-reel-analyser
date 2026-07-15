@@ -22,7 +22,7 @@ claude --plugin-dir /path/to/instagram-reel-summariser
 
 Then just ask Claude to summarise a reel, or paste a reel URL — the skill triggers automatically. No slash command needed since this is a model-invoked skill, not a command.
 
-To install permanently via the plugin manager: `/plugin marketplace add <your-marketplace>` then `/plugin install instagram-reel-summariser`, or add the directory to a marketplace's `marketplace.json` and distribute it that way. See the [Claude Code plugin docs](https://code.claude.com/docs/en/plugins) for marketplace setup.
+To install permanently via the plugin manager: `/plugin marketplace add <your-marketplace>` then `/plugin install instagram-reel-summariser`.
 
 ## Run the pipeline directly (no Claude Code needed)
 
